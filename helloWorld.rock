@@ -1,0 +1,8 @@
+{Title: Hello World with the rockstar programming language}
+{URL: https://github.com/RockstarLang/rockstar?tab=readme-ov-file}
+{Artist: b-swag-sys}
+
+Let the array at 0 be "Hello"
+Let the array at 1 be "World!!"
+Shout the array at 0
+Shout the array at 1
